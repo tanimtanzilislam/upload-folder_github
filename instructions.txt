@@ -1,0 +1,7 @@
+1) git init
+ 2) git status
+ 3)git add .
+ 4) git commit -m "messsage"
+ 5)git brach -M main
+ 6) git remote add origin https--->
+ 7) git push -u origin main
